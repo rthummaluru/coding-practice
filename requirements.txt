@@ -1,0 +1,7 @@
+tdqm
+notebook 
+openai 
+elasticsearch 
+scikit-learn 
+pandas
+python-dotenv
